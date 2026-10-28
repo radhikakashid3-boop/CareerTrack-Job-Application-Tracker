@@ -1,0 +1,3 @@
+# Kept as a convenience copy for the infrastructure submission folder.
+# Run the root docker-compose.yml from the project root.
+services: {}
